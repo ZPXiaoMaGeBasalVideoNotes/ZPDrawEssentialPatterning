@@ -1,0 +1,2 @@
+# ZPDrawEssentialPatterning
+本Demo主要介绍了如何绘制直线、曲线、三角形、矩形、椭圆形、圆环、圆形、圆弧以及在View上不借助UILabel控件画富文本字符串、在View上不借助UIImageView控件画图片和添加水印的做法。
